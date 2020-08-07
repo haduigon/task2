@@ -1,5 +1,5 @@
 <?php
-require 'drawTable.php';
+require 'drawTable.php'
 $data=[
 ['email'=>$_POST['email'],
 'name'=>$_POST['name']
